@@ -1,16 +1,37 @@
-## Hi there 👋
+# StudioGrid Pro
 
-<!--
-**studiogridpro/studiogridpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Next.js UI kits and frontend systems for SaaS products, admin interfaces and internal tools.
 
-Here are some ideas to get you started:
+Built with React, TypeScript and Tailwind CSS. The focus is on connected workflows, persistent state, real navigation and interfaces that feel like complete products rather than isolated dashboard screens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Free SaaS Dashboard Starter
+
+A responsive frontend starter for SaaS dashboards and admin interfaces.
+
+![SaaS Dashboard Starter preview](https://raw.githubusercontent.com/studiogridpro/saas-dashboard-starter/main/public/saas-dashboard-starter-preview.png)
+
+[View the repository](https://github.com/studiogridpro/saas-dashboard-starter)
+
+[Free starter page](https://studiogridpro.com/free/saas-dashboard-starter)
+
+## What we build
+
+- SaaS dashboards
+- Auth and onboarding interfaces
+- Billing and subscription UIs
+- CRM and sales pipelines
+- E-commerce admin interfaces
+- Customer support and helpdesk UIs
+
+## Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## StudioGrid Pro
+
+[Website](https://studiogridpro.com)
+
+[Premium UI kits](https://studiogridpro.com/products)
